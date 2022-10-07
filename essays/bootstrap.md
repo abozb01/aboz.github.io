@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
+published: true
 title: "Bootstrap-5 makes your life easier and this is how"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
-published: true
+
 labels:
   - Bootstrap-5
   - Life-Long Learning
   - Web Development
----
 
 <img width="100px" class="rounded float-start pe-4" src="../img/Screenshot (47).png">
 <img width="100px" class="rounded float-start pe-4" src="../img/Screenshot (48).png">
