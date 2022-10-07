@@ -11,8 +11,8 @@ labels:
   - Web Development
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="Screenshot (47).png">
-<img width="100px" class="rounded float-start pe-4" src="Screenshot (48).png">
+<img width="100px" class="rounded float-start pe-4" src="../img/Screenshot (47).png">
+<img width="100px" class="rounded float-start pe-4" src="../img/Screenshot (48).png">
 
 I have always wanted to learn more about web development. Web development has such a far reach on our society today, and will continue its hold untill the end of time. Web Development can be so complex and also ever so simple and elegant. The pictures above is from a practice WOD I accomplished and well above the time frame. This one was special to me because it was a place that me and my wife used to spend time while we were dating. I feel I did a good job with this one, and am eager to learn more about web development.
 
